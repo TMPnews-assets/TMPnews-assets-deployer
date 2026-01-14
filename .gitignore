@@ -1,0 +1,9 @@
+# Dependencies
+node_modules/
+
+# Raw input folders (We don't want to upload heavy raw images)
+raw_images/
+already_optimize_image/
+
+# Environment or OS files
+.DS_Store
