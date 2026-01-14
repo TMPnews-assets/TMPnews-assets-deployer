@@ -1,9 +1,8 @@
 # Dependencies
 node_modules/
 
-# Raw input folders (We don't want to upload heavy raw images)
+# Content Folders (We backup the script, not the images/logs in this specific step)
 raw_images/
 already_optimize_image/
-
-# Environment or OS files
-.DS_Store
+optimized_image_url/
+Public/
